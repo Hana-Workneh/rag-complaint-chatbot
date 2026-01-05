@@ -1,0 +1,36 @@
+Total rows (raw): 9609797
+Missing narratives (NaN): 6629041
+Empty narratives (''): 6629041
+
+Top products:
+Credit reporting or other personal consumer reports                             4834855
+Credit reporting, credit repair services, or other personal consumer reports    2163857
+Debt collection                                                                  799197
+Mortgage                                                                         422254
+Checking or savings account                                                      291178
+Credit card                                                                      226686
+Credit card or prepaid card                                                      206369
+Money transfer, virtual currency, or money service                               145066
+Credit reporting                                                                 140429
+Student loan                                                                     109717
+Bank account or service                                                           86205
+Vehicle loan or lease                                                             72957
+Consumer Loan                                                                     31574
+Payday loan, title loan, or personal loan                                         30641
+Payday loan, title loan, personal loan, or advance loan                           16514
+Prepaid card                                                                      15280
+Payday loan                                                                        5541
+Money transfers                                                                    5354
+Debt or credit management                                                          5047
+Other financial service                                                            1058
+Virtual currency                                                                     18
+
+Narrative wordcount (sampled):
+count    969797.000000
+mean         54.086514
+std         150.795496
+min           0.000000
+25%           0.000000
+50%           0.000000
+75%          48.000000
+max        5939.000000
