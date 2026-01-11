@@ -20,3 +20,9 @@ vector_store/
 # OS
 .DS_Store
 Thumbs.db
+
+# Virtual environments
+.venv*/
+.venv311/
+.venv313/
+
