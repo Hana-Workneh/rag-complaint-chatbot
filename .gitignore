@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+check_schema.py
 
 # Jupyter
 .ipynb_checkpoints/
